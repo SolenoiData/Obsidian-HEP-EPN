@@ -11,12 +11,8 @@
             "id": "ff1188b494723aa7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CERN Computing/K8S/Kubernetes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CERN Computing/K8S/Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CERN Computing/K8S/Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CERN Computing/K8S/Kubernetes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,7 @@
   },
   "active": "ff1188b494723aa7",
   "lastOpenFiles": [
+    "CERN Computing/K8S/Kubernetes.md",
     "CERN Computing/K8S/K8S Components.md",
     "CERN Computing/K8S/Components/StatefulSets.md",
     "CERN Computing/K8S/Components/Deployments.md",
@@ -156,7 +149,6 @@
     "CERN Computing/K8S/Components/ConfigMaps.md",
     "CERN Computing/K8S/Components/Ingress.md",
     "CERN Computing/K8S/Components/Services.md",
-    "CERN Computing/K8S/Components/Pods.md",
-    "CERN Computing/Images/Pasted image 20230130102140.png"
+    "CERN Computing/K8S/Components/Pods.md"
   ]
 }
