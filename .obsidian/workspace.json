@@ -140,6 +140,8 @@
   },
   "active": "ff1188b494723aa7",
   "lastOpenFiles": [
+    "CERN Computing/General Idea.md",
+    "CMS Initiative - Ecuador.md",
     "CERN Computing/K8S/Kubernetes.md",
     "CERN Computing/K8S/K8S Components.md",
     "CERN Computing/K8S/Components/StatefulSets.md",
@@ -147,8 +149,6 @@
     "CERN Computing/K8S/Components/Volumes.md",
     "CERN Computing/K8S/Components/Secrets.md",
     "CERN Computing/K8S/Components/ConfigMaps.md",
-    "CERN Computing/K8S/Components/Ingress.md",
-    "CERN Computing/K8S/Components/Services.md",
-    "CERN Computing/K8S/Components/Pods.md"
+    "CERN Computing/K8S/Components/Ingress.md"
   ]
 }

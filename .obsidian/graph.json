@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"CERN Computing/Docker\"",
@@ -43,16 +43,16 @@
       }
     }
   ],
-  "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": -0.5,
-  "nodeSizeMultiplier": 1.30286865234375,
-  "lineSizeMultiplier": 1.59815266927083,
-  "collapse-forces": false,
-  "centerStrength": 0.538533528645833,
-  "repelStrength": 20,
-  "linkStrength": 0.2281494140625,
-  "linkDistance": 136,
-  "scale": 0.5773011553401477,
-  "close": false
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 1.28951009114583,
+  "lineSizeMultiplier": 1.24624430338542,
+  "collapse-forces": true,
+  "centerStrength": 0.394938151041667,
+  "repelStrength": 13.76708984375,
+  "linkStrength": 0.577392578125,
+  "linkDistance": 417,
+  "scale": 0.70699029452011,
+  "close": true
 }
