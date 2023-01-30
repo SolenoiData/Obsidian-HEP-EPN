@@ -1,5 +1,6 @@
 # Introduction to the basics
 
+This repository is intended to run in Obsidian, if you need further information please go to the [[README]] file.
 If you need a few tutorials/material to start with some basic languages/programs, here there is a (non-complete and ongoing) list of suggested tutorials:
 
 -   [Git](https://swcarpentry.github.io/git-novice/index.html): Carpentry tutorials for the basics of how to use github/gitlab. This is useful to keep your code in a online repository.

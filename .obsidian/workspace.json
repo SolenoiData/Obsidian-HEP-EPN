@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d106fd497c1a4ee4",
+        "id": "faa4d7bc2e771c1b",
         "type": "tabs",
         "children": [
           {
-            "id": "ff1188b494723aa7",
+            "id": "87a4e24c21ee075d",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -138,17 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff1188b494723aa7",
+  "active": "87a4e24c21ee075d",
   "lastOpenFiles": [
+    "2023-01-30.md",
     "CERN Computing/General Idea.md",
     "CMS Initiative - Ecuador.md",
+    "CERN Computing/Images/Pasted image 20230130111932.png",
     "CERN Computing/K8S/Kubernetes.md",
     "CERN Computing/K8S/K8S Components.md",
+    "CERN Computing/K8S/Components/Pods.md",
     "CERN Computing/K8S/Components/StatefulSets.md",
     "CERN Computing/K8S/Components/Deployments.md",
-    "CERN Computing/K8S/Components/Volumes.md",
-    "CERN Computing/K8S/Components/Secrets.md",
-    "CERN Computing/K8S/Components/ConfigMaps.md",
-    "CERN Computing/K8S/Components/Ingress.md"
+    "CERN Computing/K8S/Components/Volumes.md"
   ]
 }
