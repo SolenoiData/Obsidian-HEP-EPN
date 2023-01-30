@@ -19,5 +19,7 @@ We will start with the base image for our Dockerfile which is root-docker.
 
 ## HEPdocker
 
+The following image can be found in [docker hub](https://hub.docker.com/r/alefisico/echep/tags) with the tag v0. 
+
 ![[HEPdocker]]
 

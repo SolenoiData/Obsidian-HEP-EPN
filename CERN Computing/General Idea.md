@@ -15,4 +15,4 @@ At first we will be using [[Dockerfile]].
 
 [[Phase 3]]:
 
-1. Work with heavier images [TB]
+1. Work with heavier input data [TB]

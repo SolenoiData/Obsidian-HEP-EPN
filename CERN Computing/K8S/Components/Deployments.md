@@ -1,0 +1,5 @@
+A [deployment](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/) is a Kubernetes object used for describing a desired state for our application, bringing added resilience. In a deployment, we can define common specifications for [[Pods]], and how many replicas of this pod to run. In short, **a deployment is a group of identical pods**. So, for example, if we wish to have two replicas of an application pod running at the same time, the deployment controller will take care of this. *If one of the pods dies, the deployment controller will create a new pod*, such that we always have two pods running. When we have several replicas of a pod, services act as load balancers, and forward requests to the replica of the pod that is currently supporting a lower load.  
+
+Basically, deployments are an ***abstraction layer*** on top of pods. In practice, we work with deployments and not pods. Deployments offer a more convenient way of interacting with the pods and their configuration. 
+
+![[Pasted image 20230130102704.png]]

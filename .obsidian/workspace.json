@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f339d7b17748266e",
+        "id": "d106fd497c1a4ee4",
         "type": "tabs",
         "children": [
           {
-            "id": "357afe0890d6b635",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "950e411c7bab8505",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f1d3105bc1b1ccc2",
+            "id": "ff1188b494723aa7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CERN Computing/Docker/Files/HEPdocker.md",
+                "file": "CERN Computing/K8S/Kubernetes.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CERN Computing/Docker/Files/HEPdocker.md",
+                "file": "CERN Computing/K8S/Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CERN Computing/Docker/Files/HEPdocker.md",
+                "file": "CERN Computing/K8S/Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CERN Computing/Docker/Files/HEPdocker.md"
+                "file": "CERN Computing/K8S/Kubernetes.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1d3105bc1b1ccc2",
+  "active": "ff1188b494723aa7",
   "lastOpenFiles": [
-    "CERN Computing/Docker/Files/HEPdocker.md",
-    "CERN Computing/Docker/Dockerfile.md",
-    "CERN Computing/General Idea.md",
-    "CERN Computing/Phases/Phase 1.md",
-    "CERN Computing/Phases/Phase 3.md",
-    "CERN Computing/Phases/Phase 2.md",
-    "CERN Computing/Phases/Steps/Step 3 - Phase 1.md",
-    "CERN Computing/Phases/Steps/Step 1 - Phase 1.md",
-    "CMS Initiative - Ecuador.md",
-    "CERN Computing/Docker/Docker Files.md"
+    "CERN Computing/K8S/K8S Components.md",
+    "CERN Computing/K8S/Components/StatefulSets.md",
+    "CERN Computing/K8S/Components/Deployments.md",
+    "CERN Computing/K8S/Components/Volumes.md",
+    "CERN Computing/K8S/Components/Secrets.md",
+    "CERN Computing/K8S/Components/ConfigMaps.md",
+    "CERN Computing/K8S/Components/Ingress.md",
+    "CERN Computing/K8S/Components/Services.md",
+    "CERN Computing/K8S/Components/Pods.md",
+    "CERN Computing/Images/Pasted image 20230130102140.png"
   ]
 }
