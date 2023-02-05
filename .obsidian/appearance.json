@@ -1,3 +1,6 @@
 {
-  "accentColor": "#6749ca"
+  "accentColor": "#6749ca",
+  "baseFontSize": 16,
+  "translucency": false,
+  "cssTheme": ""
 }

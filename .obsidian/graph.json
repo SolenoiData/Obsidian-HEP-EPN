@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"CERN Computing/Docker\"",
@@ -18,14 +18,14 @@
       "query": "path:\"CMS Physics\"",
       "color": {
         "a": 1,
-        "rgb": 873822
+        "rgb": 1217701
       }
     },
     {
       "query": "path:\"Machine Learning\"",
       "color": {
         "a": 1,
-        "rgb": 11018015
+        "rgb": 10381209
       }
     },
     {
@@ -36,23 +36,30 @@
       }
     },
     {
+      "query": "path:\"CERN Computing/Argo\"",
+      "color": {
+        "a": 1,
+        "rgb": 3126840
+      }
+    },
+    {
       "query": "path:\"CERN Computing/Phases\"",
       "color": {
         "a": 1,
-        "rgb": 13030097
+        "rgb": 13254463
       }
     }
   ],
   "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": -1.5,
-  "nodeSizeMultiplier": 1.28951009114583,
+  "textFadeMultiplier": -1.7,
+  "nodeSizeMultiplier": 1.5259765625,
   "lineSizeMultiplier": 1.24624430338542,
-  "collapse-forces": true,
-  "centerStrength": 0.394938151041667,
-  "repelStrength": 13.76708984375,
-  "linkStrength": 0.577392578125,
-  "linkDistance": 417,
-  "scale": 0.70699029452011,
+  "collapse-forces": false,
+  "centerStrength": 0.3751220703125,
+  "repelStrength": 10.7511393229167,
+  "linkStrength": 0.76123046875,
+  "linkDistance": 114,
+  "scale": 0.8369991217999662,
   "close": true
 }

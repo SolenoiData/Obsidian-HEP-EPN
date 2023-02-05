@@ -11,15 +11,17 @@ If you need a few tutorials/material to start with some basic languages/programs
 -   [Kaggle learn](https://www.kaggle.com/learn): a set of tutorials in many tools used in data analysis in general. These tutorials are not focused in physics, but for data analyst’s.
 -   [Google colab](https://colab.research.google.com/): your jupyter notebooks in your google account.
 
-# Introduction to CMS Physics
-
-
-
 # Introduction to CERN/CMS Computing basics
 
-## Lxplus machine
+- [Programming Playground](https://killercoda.com)
 
 ## Kubernetes
 
-The [[General Idea]] of this will be to run this on a couple nodes.
+The [[Computing Tasks]] of this will be to run this on a couple nodes.
+
+## Machine Learning
+
+[[CMS]] OpenData usually comes in a raw format, of which one we have processed and flattened the files, we can proceed with [[ML in HEP]]  
+
+## Lxplus machine
 
