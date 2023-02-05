@@ -14,3 +14,15 @@ Read the [blog post](https://axle.design/an-integrated-qualitative-analysis-envi
 
 ## Contribution
 I welcome suggestions and changes via [pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) or, if you'd like to build on this environment with significant changes, feel free to [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository.
+
+```shell
+/Users/alextintin/Library/CloudStorage/OneDrive-EscuelaPolitécnicaNacional/CERN/HEP\ Machine\ Learning/Obsidian/CMS\ Computing\ Group
+
+git status
+
+git add .
+
+git commit -m "Commit message"
+
+git push -u -f origin master
+```
