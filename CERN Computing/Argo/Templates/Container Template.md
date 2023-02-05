@@ -23,7 +23,7 @@ Port-forward to the Argo Server pod...
 
 `kubectl -n argo port-forward --address 0.0.0.0 svc/argo-server 2746:2746 > /dev/null &`
 
-and open the [[Argo Workflows UI]]. Then navigate to the workflow, you should see a single container running.
+and open the Argo Workflows UI. Then navigate to the workflow, you should see a single container running.
 
 ## Exercise
 

@@ -1,4 +1,4 @@
-This phase wil help us understand the information flow in the container. Finally resulting in manipulating them into saving them wherever we want
+This phase will help us understand the information flow in the container. Finally resulting in manipulating them into saving them wherever we want
 
 1. Download the docker image 
    
