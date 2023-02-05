@@ -149,15 +149,15 @@
   },
   "active": "067167ebbe02edd4",
   "lastOpenFiles": [
-    "CERN Computing/Docker/Dockerfile.md",
-    "CERN Computing/Docker/Files/HEPdocker.md",
+    "CERN Computing/K8S/Components/Ingress.md",
+    "CERN Computing/K8S/Components/Pods.md",
+    "CERN Computing/K8S/Components/Services.md",
+    "CERN Computing/K8S/Components/ConfigMaps.md",
+    "CERN Computing/K8S/Kubernetes.md",
+    "CERN Computing/K8S/K8S Components.md",
     "CERN Computing/Docker/Files/Root Docker.md",
-    "CERN Computing/Computing Tasks.md",
-    "CMS Initiative - Ecuador.md",
-    "README.md",
-    "CERN Computing/Argo/Templates.md",
-    "CERN Computing/Docker/Complications.md",
+    "CERN Computing/Docker/Dockerfile.md",
     "CERN Computing/Docker/Docker Files.md",
-    "Machine Learning/ML in HEP.md"
+    "CERN Computing/Docker/Complications.md"
   ]
 }

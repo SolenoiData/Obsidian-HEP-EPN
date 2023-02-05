@@ -1,6 +1,6 @@
 # A Qualitative Analysis environment 
 
-![13c5a16a-c509-4554-ac86-293bc0eb441c](https://github.com/SolenoiData/Obsidian-HEP-EPN/blob/master/CERN%20Computing/Images/README.png)
+
 
 This environment supports qualitative analysis of text (and potentially other media) with [Obsidian](https://obsidian.md). It is an example of an [Integrated Thinking Environment](https://axle.design/obsidian-roam-and-the-rise-of-integrated-thinking-environments—what-they-are-what-they-do-and-what-s).
 
