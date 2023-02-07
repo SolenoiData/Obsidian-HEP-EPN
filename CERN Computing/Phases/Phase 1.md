@@ -1,6 +1,6 @@
 This phase will help us understand the information flow in the container. Finally resulting in manipulating them into saving them wherever we want
 
-1. Download the docker image 
+1. Incorporate a docker image with our libraries 
    
    ![[Step 1 - Phase 1]]
    
@@ -15,3 +15,4 @@ This phase will help us understand the information flow in the container. Finall
 4. Save the output files on a persistent volume
 
 ![[Step 4 - Phase 1]]
+

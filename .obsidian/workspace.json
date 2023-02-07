@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3758847ed6fda0b9",
+        "id": "e0198ad1f39cc564",
         "type": "tabs",
         "children": [
           {
-            "id": "e92d9363bb7024f0",
+            "id": "98b5c6733ffc45bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e92d9363bb7024f0",
+  "active": "98b5c6733ffc45bd",
   "lastOpenFiles": [
+    "CERN Computing/Docker/Dockerfile.md",
+    "CERN Computing/Computing Tasks.md",
+    "CERN Computing/K8S/Components/ConfigMaps.md",
     "CERN Computing/Argo/Templates/Container Template.md",
-    "Argo Workflows UI.md",
+    "CERN Computing/Argo/Templates/Templates.md",
+    "CERN Computing/Argo/Templates/Template Tags.md",
     "CERN Computing/Argo/Argo.md",
-    "CERN Computing/Argo/Templates/Inputs and Outputs.md",
-    "CERN Computing/Argo/Templates/API.md",
+    "CERN Computing/Phases/Execution Plan.md",
     "CERN Computing/Argo/Templates/Reuse.md",
-    "I/IO.md",
-    "CERN Computing/Argo/Templates/Webhooks.md",
-    "CERN Computing/Argo/Templates/Access Token.md",
-    "access token.md"
+    "CERN Computing/Argo/Templates/DAG Template.md"
   ]
 }
